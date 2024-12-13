@@ -23,4 +23,6 @@ begin
     end;
     writeln(' y= ',y);
     writeln('z= ',z);
+    writeln(' y= ',y);
+    writeln('z= ',z);
 end.
